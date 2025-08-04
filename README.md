@@ -30,7 +30,7 @@ Clone this repository to your local machine:
 
 Bash
 
-git clone https://github.com/Sunny-commit/IBM_Text_To_Speak_Project.git
+git clone https://github.com/Sunny-commit/IBM_Natural_Language_Understanding_project.git
 cd IBM_Text_To_Speak_Project
 Update the script:
 Open main.py in a text editor. Replace the placeholder values in the analyze_text function with your actual IBM Cloud credentials:
